@@ -1,0 +1,119 @@
+*{
+    background-color: #bff2f2;
+}
+
+#time {
+    text-align: right;
+    font-size: 30px;
+}
+/* Mainpage Styling */
+#mainpage {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    
+
+}
+
+#maintitle {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    
+}
+
+#startbtn {
+    text-align: center;
+    
+    
+}
+
+#btn {
+    text-align: center;
+    
+}
+/* End Mainpage Styling */
+
+/* Start First */
+#firstquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.firstcontainer {
+    
+
+}
+/* End First */
+
+/* Start Second */
+#secondquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.secondcontainer {
+    
+}
+/* End Second */
+
+/* Start Third */
+#thirdquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.thirdcontainer {
+    
+}
+/* End Third */
+
+/* Start Fourth */
+#fourthquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.fourthcontainer {
+    
+}
+/* End Fourth */
+
+/* Start Fifth */
+#fifthquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.fifthcontainer {
+    
+}
+/* End Fifth */
+
+/* Start Sixth */
+#sixthquery {
+    text-align: center;
+    font-style: oblique;
+    /* display: none; */
+}
+
+.sixthcontainer {
+    
+}
+/* End Sixth */
+
+/* Print Quiz Section */
+#printquiz {
+    text-align: center;
+    margin-top: 18%;
+}
+
+
+/*  End Print Quiz Section */
